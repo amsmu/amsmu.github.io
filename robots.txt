@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://clueless-blog.herokuapp.com/sitemap.xml
+Sitemap: https://somecluelessguyapp.com/sitemap.xml
 Disallow: /ghost/
